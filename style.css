@@ -1,0 +1,32 @@
+body {
+    background-color: #017270;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+   
+}
+
+h2 {
+    margin-left: 40px;
+}
+
+.heading {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px 50px 50px 50px;
+    margin-bottom: 50px;
+}
+
+.recipe-link {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue
+}
